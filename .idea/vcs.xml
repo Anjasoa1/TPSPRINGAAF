@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TP-SPRING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP-SPRING-AAF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TPSPRING" vcs="Git" />
   </component>
 </project>
